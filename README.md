@@ -7,8 +7,8 @@
    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
    <img src="https://img.shields.io/badge/HTML5-E95420?style=for-the-badge&logo=HTML5&logoColor=white">
    <br/>
-   <img src="https://img.shields.io/badge/Instagram-E4405F?&style=for-the-badge&logo=Instagram&logoColor=white">
-    <img src="https://img.shields.io/badge/Youtube-FF0000?&style=for-the-badge&logo=Youtube&logoColor=white">
+   <a href="www.naver.com"><img src="https://img.shields.io/badge/Instagram-E4405F?&style=for-the-badge&logo=Instagram&logoColor=white"> </a>
+   <img src="https://img.shields.io/badge/Youtube-FF0000?&style=for-the-badge&logo=Youtube&logoColor=white">
    
 </div>
 <br/>
