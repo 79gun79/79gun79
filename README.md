@@ -16,7 +16,7 @@
    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=79gun79" />
 </div>
 <div align="center">
-   <p> 재건이의 동물원 </p>
+   <h3> 재건이의 비상식량 </h3>
    <a href="https://github.com/devxb/gitanimals">
    <img
      src="https://render.gitanimals.org/farms/79gun79"
