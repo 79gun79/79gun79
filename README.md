@@ -15,3 +15,12 @@
 <div align="center">
    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=79gun79" />
 </div>
+<div>
+   <a href="https://github.com/devxb/gitanimals">
+   <img
+     src="https://render.gitanimals.org/farms/79gun79"
+     width="600"
+     height="300"
+   />
+</a>
+</div>
