@@ -1,7 +1,7 @@
 ### 안녕 친구들
 <img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
 
-<div align="center">
+<div align-items="center">
    <p> 성결대학교 컴퓨터공학과 이재건 </p>
    <p> </p>
    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
@@ -9,8 +9,7 @@
    <img src="https://img.shields.io/badge/HTML5-E95420?style=for-the-badge&logo=HTML5&logoColor=white">
    <br/>
    <a href="https://www.instagram.com/j_gun2/"><img src="https://img.shields.io/badge/Instagram-E4405F?&style=for-the-badge&logo=Instagram&logoColor=white"> </a>
-   <a href="https://www.youtube.com/"><img src="https://img.shields.io/badge/Youtube-FF0000?&style=for-the-badge&logo=Youtube&logoColor=white"></a>
-   
+   <a href="https://www.youtube.com/"><img src="https://img.shields.io/badge/Youtube-FF0000?&style=for-the-badge&logo=Youtube&logoColor=white"></a>   
 </div>
 <br/>
 <div align="center">
