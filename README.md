@@ -1,4 +1,5 @@
 ### 안녕 친구들
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
 
 <div align="center">
    <p> 성결대학교 컴퓨터공학과 이재건 </p>
