@@ -1,27 +1,18 @@
-### 안녕 친구들
-<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=150&section=header" />
+## 👋 Hi Bro!
 
-<div align-items="center">
-   <p> 성결대학교 컴퓨터공학과 이재건 </p>
-   <p> </p>
-   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white">
-   <img src="https://img.shields.io/badge/HTML5-E95420?style=for-the-badge&logo=HTML5&logoColor=white">
-   <br/>
-   <a href="https://www.instagram.com/j_gun2/"><img src="https://img.shields.io/badge/Instagram-E4405F?&style=for-the-badge&logo=Instagram&logoColor=white"> </a>
-   <a href="https://www.youtube.com/"><img src="https://img.shields.io/badge/Youtube-FF0000?&style=for-the-badge&logo=Youtube&logoColor=white"></a>   
-</div>
+😎 Welcome to my github and here is my [`IT Blog`](https://79gun79.tistory.com/)
+
+✨ I want to become a **Front-end developer**
+
+🌴 I’m currently learning `Typescript` and `React`
+
+📫 You can contact me at this email [`79gun79@naver.com`](mailto:79gun79@naver.com)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=깃허브 아이디)](https://github.com/anuraghazra/github-readme-stats)<br/>
+<div><img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=79gun79" /></div>
 <br/>
-<div align="center">
-   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=79gun79" />
-</div>
-<div align="center">
-   <h3> 재건이의 비상식량 🥩 </h3>
-   <a href="https://github.com/devxb/gitanimals">
-   <img
-     src="https://render.gitanimals.org/farms/79gun79"
-     width="600"
-     height="300"
-   />
-   </a>
-</div>
+<div><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white"/></div>
+<div><img src="https://img.shields.io/badge/Javascript-ffb13b?style=for-the-badge&logo=javascript&logoColor=white"/><img src="https://img.shields.io/badge/HTML5-E95420?style=for-the-badge&logo=HTML5&logoColor=white"></div>
+<div><img src="https://img.shields.io/badge/Typescript-2e79c7?style=for-the-badge&logo=typescript&logoColor=white"/><img src="https://img.shields.io/badge/React-5fd3f3?style=for-the-badge&logo=react&logoColor=white"/></div>
+<br/>
+<a href="https://www.instagram.com/j_gun2/"><img src="https://img.shields.io/badge/Instagram-E4405F?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
