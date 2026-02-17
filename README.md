@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://79gun79.github.io/" target="_blank">
-    <img src="https://img.shields.io/badge/Blog-Gunblog-000000?style=for-the-badge&logo=tistory&logoColor=white" />
+    <img src="https://img.shields.io/badge/Blog-Gunblog-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="mailto:79gun79@naver.com">
     <img src="https://img.shields.io/badge/Email-79gun79%40naver.com-2DB400?style=for-the-badge&logo=gmail&logoColor=white" />
@@ -122,14 +122,14 @@
 <br/>
 
 ## 📝 Latest Posts
-<!-- 최근 글 3~5개를 수동으로 업데이트해도 좋아요 -->
+
 - [블로그 글 제목 1](https://79gun79.tistory.com/)
 - [블로그 글 제목 2](https://79gun79.tistory.com/)
 - [블로그 글 제목 3](https://79gun79.tistory.com/)
 
 <br/>
 
-## 📊 GitHub Stats (Optional)  
+## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=79gun79&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=79gun79&layout=compact)
