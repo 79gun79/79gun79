@@ -2,7 +2,7 @@
 
 <p align="center">
   목표를 정하고 꾸준히 성장하는 <b>Front-end Developer</b>를 지향합니다.<br/>
-  TypeScript · React 기반으로 사용자 경험(UX)과 재사용 가능한 UI 설계에 관심이 많아요.
+  TypeScript · React 기반으로 사용자 경험(UX)과 재사용 가능한 UI 설계에 관심이 많습니다.
 </p>
 
 <p align="center">
@@ -24,10 +24,10 @@
 안녕하세요! 🙌  
 책임감 있게 먼저 움직이고, 소통으로 함께 성장하는 개발자 **이재건**입니다. 🚀
 
-요즘은 **React / Next.js** 중심으로 프론트엔드 역량을 탄탄히 쌓는 중이에요 💪  
+요즘은 **React / Next.js** 중심으로 프론트엔드 역량을 탄탄히 쌓는 중입니다! 💪  
 그리고 **Notion · Figma** 같은 협업 툴로 정리/공유하는 것도 좋아해서,    
 팀이 같은 방향을 보도록 돕는 역할을 자주 맡았습니다 🧩✨  
-백엔드도 “몰라도 일단 부딪혀보기” 마인드로 계속 공부하고 있어요 🔥
+백엔드도 “몰라도 일단 부딪혀보기” 마인드로 계속 공부하고 있습니다 🔥
 
 팀 활동에서 팀장을 맡아 일정/우선순위를 조율하고, 다 같이 재밌게(?) 끝까지 완주하는 경험을 쌓아왔습니다 🏃‍♂️🏁  
 앞으로도 협업 🤝 + 책임감 ✅ 을 무기로 더 좋은 사용자 경험을 만드는 개발자가 되겠습니다! 😎
@@ -123,9 +123,9 @@
 
 ## 📝 Latest Posts
 
-- [블로그 글 제목 1](https://79gun79.tistory.com/)
-- [블로그 글 제목 2](https://79gun79.tistory.com/)
-- [블로그 글 제목 3](https://79gun79.tistory.com/)
+- [[프로그래머스 - JS] 연속 부분 수열 합의 개수](https://79gun79.github.io/posts/PG1/)
+- [SPA, CSR, SSR의 차이](https://79gun79.github.io/posts/IQ19/)
+- [이벤트 루프(Event Loop)](https://79gun79.github.io/posts/IQ14/)
 
 <br/>
 
