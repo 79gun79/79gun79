@@ -131,8 +131,8 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-gamma-beige-10.vercel.app/api?username=79gun79&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=79gun79&layout=compact)
+![GitHub Stats](https://github-readme-stats-gamma-beige-10.vercel.app/api?username=79gun79&show_icons=true)    
+![Top Langs](https://github-readme-stats-gamma-beige-10.vercel.app/api/top-langs/?username=79gun79&layout=compact)
 
 <br/>
 
