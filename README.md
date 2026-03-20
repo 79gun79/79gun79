@@ -5,15 +5,15 @@
   TypeScript · React 기반으로 사용자 경험(UX)과 재사용 가능한 UI 설계에 관심이 많습니다.
 </p>
 
-<p align="center">
+<p align="center">  
+  <a href="https://official-gunblog.web.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Jaegeon LEE-394736?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
   <a href="https://79gun79.github.io/" target="_blank">
     <img src="https://img.shields.io/badge/Blog-Gunblog-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="mailto:79gun79@naver.com">
     <img src="https://img.shields.io/badge/Email-79gun79%40naver.com-2DB400?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/j_gun2/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-j__gun2-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
